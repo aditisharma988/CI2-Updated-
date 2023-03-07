@@ -16,7 +16,7 @@ class ProfileController extends Controller
 
         $session = session();
 
-        echo "Hello : ".$session->get('name');
+        return redirect()->to (/frontpage);
 
     }
 

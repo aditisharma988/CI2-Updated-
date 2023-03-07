@@ -65,7 +65,7 @@ class SigninController extends Controller
 
                 $session->set($ses_data);
 
-                return redirect()->to('/frontpage.html');
+                return redirect()->to('/frontpage');
 
             
 

@@ -14,7 +14,7 @@
             margin-right: 20px;
             margin-bottom: 20px;
             margin-top:20px;
-            font-size: larger
+            font-size: larger;
 
         }
         h1,h2,h3{
@@ -47,7 +47,7 @@
           </div>
   <div class="carousel-inner2">
     <div class="carousel-item active">
-      <img src="http://localhost/codeigniter/CI/public/images/diabetes.jpg" class="d-block"  alt="pic1" style="width:100%">
+      <img src="http://localhost/CI2/public/images/diabetes.jpg" class="d-block"  alt="pic1" style="width:100%">
       </div>
 
   <br>
@@ -109,7 +109,7 @@ If you have type 1 diabetes, you’ll need to take insulin every day to survive.
     <li>Being active.</li>
 </ul> <br>
 
-Gestational Diabetes
+<b>Gestational Diabetes</b>
 
 Gestational diabetes develops in pregnant women who have never had diabetes. If you have gestational diabetes, your baby could be at higher risk for health problems. Gestational diabetes usually goes away after your baby is born. However, it increases your risk for type 2 diabetes later in life. Your baby is more likely to have obesity as a child or teen and develop type 2 diabetes later in life.
 Low Resolution Video

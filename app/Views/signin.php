@@ -36,7 +36,7 @@
                     </div>
 
                 <?php endif;?>
-                <form action="http://localhost/codeigniter/CI/public/index.php/signin/" method="post">
+                <form action="http://localhost/CI2/public/index.php/signin/" method="post">
                   <?=csrf_field() ?>
                   <div class="form-group mb-3">
 

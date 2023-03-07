@@ -13,7 +13,7 @@
 <body>
 <nav class="navbar navbar-expand-lg fixed top" aria-labelledby="Search by voice">
   <div class="container-fluid">
-    <a class="navbar-brand1" href="#"><img src="http://localhost/codeigniter/CI/public/images/ADDY%20CARES.png" alt="Healthcare" ></a>
+    <a class="navbar-brand1" href="#"><img src="http://localhost/CI2/public/images/ADDY%20CARES.png" alt="Healthcare" ></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="navbardesign" label="Toggle navigation">
     <span class= "navbar-toggler-icon">
     </span>
@@ -25,9 +25,9 @@
     <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">About Us</a>
     <ul class="dropdown-menu">
-      <li><a class="dropdown-item" href="#">Network</a></li>
-      <li><a class="dropdown-item" href="#">Remedies</a></li>
-      <li><a class="dropdown-item" href="#">Awareness Camps</a></li>
+      <li><a class="dropdown-item" href="#"><b>Network</b></a></li>
+      <li><a class="dropdown-item" href="#"><b>Remedies</b></a></li>
+      <li><a class="dropdown-item" href="#"><b>Awareness Camps</b></a></li>
     </ul>
     </li>
       </li>
@@ -38,14 +38,14 @@
         <a class="nav-link" href="#">Contact Us &nbsp;</a>
       </li>
     </ul>
-     <form class="d-flex" action="http://localhost/codeigniter/CI/public/index.php/signup" method="post">
+     <form class="d-flex" action="http://localhost/CI2/public/index.php/signup" method="post">
      
         <input class="form-control me-8" type="search" placeholder= "How Can I Help You ?" label="Login">
         <button class="btn btn-outline-success" type="submit" style="margin-left: 20px;">LOGIN</button>
       </form>
       <nav class="navbar fixed-bottom navbar-dark bg-dark" aria-labelledby="you">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Fixed bottom</a>
+          <a class="navbar-brand" href="#">End</a>
         </div>
       </nav>
         </div>
@@ -68,11 +68,11 @@
             <!--Carousel block-->
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block"  src="http://localhost/codeigniter/CI/public/images/slide1.jpg" alt="pic1" style="width:100%">
+                <img class="d-block"  src="http://localhost/CI2/public/images/slide1.jpg" alt="pic1" style="width:100%">
                 <div class="carousel-caption">
                   <h4>BOOK &nbsp;YOUR &nbsp;APPOINTMENTS &nbsp;TODAY!</h4>
                   <p>Get your personalized appointments at Reasonable Prices!!</p>
-                  <a href="http://localhost/codeigniter/CI/public/index.php/signup">
+                  <a href="http://localhost/CI2/public/index.php/signup">
                   <div class="slider-button">
                     <button class="btn-1">Click Here</button>
                   </a>
@@ -83,10 +83,10 @@
                 </div>
               
               <div class="carousel-item">
-                <img class="d-block" src="http://localhost/codeigniter/CI/public/images/slide2.jpg" alt="pic2" style="width:100%">
+                <img class="d-block" src="http://localhost/CI2/public/images/slide2.jpg" alt="pic2" style="width:100%">
               </div>
               <div class="carousel-item">
-                <img class="d-block" src="http://localhost/codeigniter/CI/public/images/slide3.jpg" alt="pic3" style="width:100%">
+                <img class="d-block" src="http://localhost/CI2/public/images/slide3.jpg" alt="pic3" style="width:100%">
               </div>
             </div>
             <!--Buttons-->
@@ -284,7 +284,7 @@ border-bottom-width: 80px; border-bottom-color: pink;">
 
       <!--Grid column-->
       <div class="col-md-9 mb-md-0 mb-5">
-          <form id="contact-form" name="contact-form" action="welcome.html" method="POST">
+          <form id="contact-form" name="contact-form" action="http://localhost/CI2/public/index.php/welcome.php" method="POST">
 
               <!--Grid row-->
               <div class="row">

@@ -34,7 +34,7 @@
 
                 <?php endif;?>
 
-                <form action="http://localhost/codeigniter/CI/public/index.php/signup" method="post">
+                <form action="http://localhost/CI2/public/index.php/signup" method="post">
                 <?=csrf_field() ?>
 
                     <div class="form-group mb-3">
